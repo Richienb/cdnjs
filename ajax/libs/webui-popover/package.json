@@ -1,5 +1,5 @@
 {
-  "filename": "jquery.webui-popover.min.js",
+  "filename": "dist/jquery.webui-popover.min.js",
   "name": "webui-popover",
   "description": "A enhancement popover plugin for Bootstrap ,but you can use it stand-alone without Bootstrap!",
   "author": "Sandy Duan <sanddywalker@gmail.com>",
@@ -22,7 +22,7 @@
         "basePath": "",
         "files": [
           "dist/*",
-          "img/*
+          "img/*"
         ]
       }
     ]
