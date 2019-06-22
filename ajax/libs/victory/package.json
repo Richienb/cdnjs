@@ -1,7 +1,7 @@
 {
   "name": "victory",
   "filename": "victory.min.js",
-  "version": "32.2.3",
+  "version": "32.3.0",
   "description": "Data viz for React",
   "keywords": [
     "data visualization",
