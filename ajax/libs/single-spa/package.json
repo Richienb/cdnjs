@@ -1,5 +1,6 @@
 {
   "name": "single-spa",
+  "version": "4.3.4",
   "description": "Multiple applications, one page",
   "homepage": "https://single-spa.js.org",
   "repository": {
