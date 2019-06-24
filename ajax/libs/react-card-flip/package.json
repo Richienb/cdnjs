@@ -1,6 +1,6 @@
 {
   "name": "react-card-flip",
-  "version": "0.7.1",
+  "version": "0.7.2",
   "filename": "react-card-flip.min.js",
   "description": "React component for card flipping animation.",
   "repository": {
