@@ -21,7 +21,7 @@
     {
       "basePath": "",
       "files": [
-        "vue-lazyload*.+(js|css|map)"
+        "vue-lazyload!(.esm)*.+(js|css|map)"
       ]
     }
   ]
