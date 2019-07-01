@@ -1,7 +1,7 @@
 {
   "name": "intl-messageformat",
   "filename": "intl-messageformat.min.js",
-  "version": "4.1.2",
+  "version": "4.2.1",
   "description": "Formats ICU Message strings with number, date, plural, and select placeholders to create localized messages.",
   "keywords": [
     "i18n",
